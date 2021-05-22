@@ -1,34 +1,14 @@
-## Welcome to an overview of my work
+## Welcome :)
 
 Below you will find links to my different projects with their explanation and code. Be sure to check them all and leave any feedbacks through which i can update them.
 
-### Markdown
+### [Santander Customer Prediction](https://deepakit.github.io/Santander-Customer-Prediction)
+In this challenge, we tried to help us identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted. 
+In Santander Customer Transaction Prediction ,we have a binary classification task.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Fuel Consumption(MPG) Prediction](https://deepakit.github.io/Fuel_Consumption_MPG_Prediction)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Deepakit/Projects_list/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+In this series, we'd be going from data collection to deploying the Machine Learning model:
 
 ### Support or Contact
 
