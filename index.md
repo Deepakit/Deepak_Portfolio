@@ -17,6 +17,10 @@ Our aim here is to predict the MPG value for a vehicle given we have other attri
 This case requires to develop a customer segmentation to define marketing strategy. The
 sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
 
+### [Bank Loan Prediction Program](https://github.com/Deepakit/Bank-Loan)
+
+The loan default dataset has 8 variables and 850 records, each record being loan default status for each customer. Each applicant was rated as “Defaulted(1)” or “Non-defaulted(0)”. New applicants for loan application can also be evaluated on these 8 predictor variables and classified as a default or non-default based on predictor variables.
+
 ### [Pokemon Data Analysis](https://deepakit.github.io/Pokemon_Data_Analysis)
 
 We are trying to get a idea from the data given to us about pokemon present across seven generations.
