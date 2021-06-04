@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Deepak Sharma</title>
+    <link>https://Deepakit.github.io/Deepak_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Deepak Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 May 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://Deepakit.github.io/Deepak_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1:Santander Customer Transaction Prediction</title>
+      <link>https://Deepakit.github.io/Deepak_Portfolio/post/project-1/</link>
+      <pubDate>Sun, 23 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://Deepakit.github.io/Deepak_Portfolio/post/project-1/</guid>
+      <description>In this challenge, we tried to help us identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted. In Santander Customer Transaction Prediction ,we have a binary classification task. Predicted customer transaction using prehistoric data. Used Machine learning Models like Logistic Regression,Random Forest, Naïve Bayes to obtain the outcome. Performed classification with highly ubalanced data performin both under and oversampling techniques.Achieved ROC score in upper brackets of 0.</description>
+    </item>
+    
+    <item>
+      <title>Project 3:Loan Prediction Model</title>
+      <link>https://Deepakit.github.io/Deepak_Portfolio/post/project-3/</link>
+      <pubDate>Sun, 23 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://Deepakit.github.io/Deepak_Portfolio/post/project-3/</guid>
+      <description>Loans are one of the important aspect of banking industry. All the banks try out effective business strategies to persuade customers to apply their loans. But some customers behave different after the application are approved. So to prevent the same, banks have to find some methods to predict customers behaviours. ML algos. Have a pretty good performance on this purpose. We take a look at the data provided to us by organizing,plotting and summarizing data.</description>
+    </item>
+    
+    <item>
+      <title>Project 4:Zomato Analysis</title>
+      <link>https://Deepakit.github.io/Deepak_Portfolio/post/project-4/</link>
+      <pubDate>Sun, 23 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://Deepakit.github.io/Deepak_Portfolio/post/project-4/</guid>
+      <description>The zomato exploratory data analysis is for the foodies to find the best restaurants, value for money restaurants in their locality. It also helps to find their required cuisines in their locality Started the notebook with EDA dealing with univariate and multivariate analysis, outlier and missing value detection. Explore the data more that we have extrapolated and removed the missing values and found that &amp;lsquo;Mumbai&amp;rsquo; city have the most expensive restaurants with &amp;lsquo;North Indian&amp;rsquo; being the famous cuisine.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Disaster Tweet Classification</title>
+      <link>https://Deepakit.github.io/Deepak_Portfolio/post/project-5/</link>
+      <pubDate>Sun, 23 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://Deepakit.github.io/Deepak_Portfolio/post/project-5/</guid>
+      <description>Dataset contains 10,000 tweets, where we first sparse through the &amp;lsquo;tweet text&amp;rsquo; and count the no. of hashtags present. We try to model the relationship between our target variable and hashtag count, and was not able to prove any strong relationship. CountVectorizer() and TfidVectorizer() was used to sparse the data set into vectors, and RidgeClassifier() for classification. Achieved a strong score of 0.83 when submitted in Kaggle challenge.   Project Report</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Fuel Consumption(MPG) Prediction</title>
+      <link>https://Deepakit.github.io/Deepak_Portfolio/post/project-2/</link>
+      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://Deepakit.github.io/Deepak_Portfolio/post/project-2/</guid>
+      <description>Data contains MPG variable which is continuous data and tells us about the efficiency of fuel consumption of a vehicle. Our aim here is to predict the MPG value for a vehicle given we have other attributes.Here we’re be going from data collection to deploying the Machine Learning model. Worked with 3 Models to find the minimum RMSE which work out for RandomForestRegressor which is 2.56. The grid search provided by GridSearchCV exhaustively generates candidates from a grid of parameter values specified with the param_grid parameter.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Deepakit.github.io/Deepak_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Deepakit.github.io/Deepak_Portfolio/contact/</guid>
+      <description>Please find below sources to contact me:
+   Platform URL     Email deepsharma.7deep@gmail.com   LinkedIn www.linkedin.com/in/shaar   GitHub https://github.com/Deepakit    </description>
+    </item>
+    
+  </channel>
+</rss>
